@@ -20,16 +20,12 @@
     margin: 200px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
-   /* position: absolute;
-    top: 150px;
-    left: 280px; */
     transform: translate(50px,50px);
     
 }
 
 .todo-header{
     display: flex;
-   /* justify-content: space-between;*/
     align-items: center;
     
 
